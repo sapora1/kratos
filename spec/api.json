@@ -2561,7 +2561,7 @@
         ],
         "summary": "List Identities",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       },
       "post": {
@@ -2626,7 +2626,7 @@
         ],
         "summary": "Create an Identity",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -2677,7 +2677,7 @@
         ],
         "summary": "Delete an Identity",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       },
       "get": {
@@ -2733,7 +2733,7 @@
         ],
         "summary": "Get an Identity",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       },
       "put": {
@@ -2819,7 +2819,7 @@
         ],
         "summary": "Update an Identity",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -2896,7 +2896,7 @@
         },
         "summary": "Create a Recovery Link",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3004,7 +3004,7 @@
           }
         },
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3067,7 +3067,7 @@
         },
         "summary": "Get Self-Service Errors",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3146,7 +3146,7 @@
         },
         "summary": "Submit a Login Flow",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3214,7 +3214,7 @@
         },
         "summary": "Initialize Login Flow for APIs, Services, Apps, ...",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3275,7 +3275,7 @@
         },
         "summary": "Initialize Login Flow for Browsers",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3356,7 +3356,7 @@
         },
         "summary": "Get Login Flow",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3394,7 +3394,7 @@
         },
         "summary": "Complete Self-Service Logout",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3440,7 +3440,7 @@
         },
         "summary": "Perform Logout for APIs, Services, Apps, ...",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3492,7 +3492,7 @@
         },
         "summary": "Create a Logout URL for Browsers",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3571,7 +3571,7 @@
         },
         "summary": "Complete Recovery Flow",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3613,7 +3613,7 @@
         },
         "summary": "Initialize Recovery Flow for APIs, Services, Apps, ...",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3658,7 +3658,7 @@
         },
         "summary": "Initialize Recovery Flow for Browsers",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3729,7 +3729,7 @@
         },
         "summary": "Get Recovery Flow",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3800,7 +3800,7 @@
         },
         "summary": "Submit a Registration Flow",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3842,7 +3842,7 @@
         },
         "summary": "Initialize Registration Flow for APIs, Services, Apps, ...",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3877,7 +3877,7 @@
         },
         "summary": "Initialize Registration Flow for Browsers",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -3958,7 +3958,7 @@
         },
         "summary": "Get Registration Flow",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -4062,7 +4062,7 @@
         ],
         "summary": "Complete Settings Flow",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -4114,7 +4114,7 @@
         },
         "summary": "Initialize Settings Flow for APIs, Services, Apps, ...",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -4169,7 +4169,7 @@
         },
         "summary": "Initialize Settings Flow for Browsers",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -4258,7 +4258,7 @@
         },
         "summary": "Get Settings Flow",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -4337,7 +4337,7 @@
         },
         "summary": "Complete Verification Flow",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -4379,7 +4379,7 @@
         },
         "summary": "Initialize Verification Flow for APIs, Services, Apps, ...",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -4414,7 +4414,7 @@
         },
         "summary": "Initialize Verification Flow for Browser Clients",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -4485,7 +4485,7 @@
         },
         "summary": "Get Verification Flow",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },
@@ -4547,7 +4547,7 @@
         },
         "summary": "Check Who the Current HTTP Session Belongs To",
         "tags": [
-          "v0alpha1"
+          "v0alpha2"
         ]
       }
     },

@@ -87,7 +87,7 @@ type adminListIdentities struct {
 	Page int `json:"page"`
 }
 
-// swagger:route GET /identities v0alpha1 adminListIdentities
+// swagger:route GET /identities v0alpha2 adminListIdentities
 //
 // List Identities
 //
@@ -134,7 +134,7 @@ type adminGetIdentity struct {
 	ID string `json:"id"`
 }
 
-// swagger:route GET /identities/{id} v0alpha1 adminGetIdentity
+// swagger:route GET /identities/{id} v0alpha2 adminGetIdentity
 //
 // Get an Identity
 //
@@ -192,7 +192,7 @@ type AdminCreateIdentityBody struct {
 	State State `json:"state"`
 }
 
-// swagger:route POST /identities v0alpha1 adminCreateIdentity
+// swagger:route POST /identities v0alpha2 adminCreateIdentity
 //
 // Create an Identity
 //
@@ -280,7 +280,7 @@ type AdminUpdateIdentityBody struct {
 	State State `json:"state"`
 }
 
-// swagger:route PUT /identities/{id} v0alpha1 adminUpdateIdentity
+// swagger:route PUT /identities/{id} v0alpha2 adminUpdateIdentity
 //
 // Update an Identity
 //
@@ -361,7 +361,7 @@ type adminDeleteIdentity struct {
 	ID string `json:"id"`
 }
 
-// swagger:route DELETE /identities/{id} v0alpha1 adminDeleteIdentity
+// swagger:route DELETE /identities/{id} v0alpha2 adminDeleteIdentity
 //
 // Delete an Identity
 //
